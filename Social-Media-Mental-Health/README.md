@@ -36,10 +36,20 @@ This project explores the relationship between social media usage and mental wel
 
 # Dashboard Screenshots
 Home
+
+
 Overview
+
+
 Mental Distribution & Time
+
+
 Social Media Impact
+
+
 Wellness & Risk
+
+
 
 # Project Files
 - Power BI dashboard (.pbix)
