@@ -41,13 +41,13 @@ Home
 Overview
 
 
-MentalDistribution&Time.png
+MentalDistribution&Time
 
 
-SocialMediaImpact.png
+SocialMediaImpact
 
 
-Wellness & Risk
+Wellness&Risk
 
 
 
