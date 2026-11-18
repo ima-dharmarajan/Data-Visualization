@@ -41,10 +41,10 @@ Home
 Overview
 
 
-Mental Distribution & Time
+MentalDistribution&Time.png
 
 
-Social Media Impact
+SocialMediaImpact.png
 
 
 Wellness & Risk
